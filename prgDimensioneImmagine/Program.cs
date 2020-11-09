@@ -13,7 +13,7 @@ namespace prgDimensioneImmagine
             n1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("inserisci la lunghezza");
             n2 = Convert.ToInt32(Console.ReadLine());
-            // calcolo dimensione in pixel:
+            // calcolo di dimensioni in pixel:
            
             int pixel = n1 * n2;
 
