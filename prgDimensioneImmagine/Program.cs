@@ -38,7 +38,7 @@ namespace prgDimensioneImmagine
                     break;
 
                 case 1:
-                    Console.WriteLine($"={pixel * 8 / 1024}");
+                    Console.WriteLine($"={pixel / 8 / 1024}");
                     break;
 
                 default:
